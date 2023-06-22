@@ -18,8 +18,9 @@ flutter:
         package: com.aravi.video_compress
         pluginClass: VideoCompressPlugin
       ios:
+        package: com.aravi.video_compress
         pluginClass: VideoCompressPlugin
-      macos:
+      macos:        
         pluginClass: VideoCompressPlugin
 
   
